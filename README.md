@@ -1,83 +1,74 @@
-# 💫 About Me:
-<img src="https://github.com/KavishkaSasindu.png" width="150" align="right" />
+# Kavishka Sasindu 👨💻
 
-## 👋 Hello, I'm Kavishka Sasindu
-A **Software Engineer** and **DevOps Enthusiast** passionate about building scalable applications, automating infrastructure, and leveraging cloud technologies to enhance development workflows.
+**Software Engineer** | **DevOps Specialist** | **Cloud Enthusiast**  
+Building scalable systems and automating workflows in the cloud ☁️
 
-🚀 **What I Do:**
-- 💻 Fullstack & Backend Development (Java, JavaScript, Node.js, Express.js, React)
-- ☁️ Cloud & DevOps (AWS, Terraform, Kubernetes, Docker, Ansible)
-- 🔧 Infrastructure Automation & CI/CD (Jenkins, GitHub Actions)
-
-🌍 **Let's Connect:**
-- 🔗 [LinkedIn](https://www.linkedin.com/in/kavishka-sasindu-5b9085265/)
-- ✍️ [Medium](https://medium.com/@sasindu0215)
-- 📸 [Instagram](https://www.instagram.com/kavishka_sasindu_/)
-- 📘 [Facebook](https://www.facebook.com/stewart.oxley.756)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavishka-sasindu-5b9085265/)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sasindu0215)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kavishka_sasindu_/)
 
 ---
 
-## 🚀 Featured Projects
-Here are some of my notable projects:
+## 🛠️ Technical Expertise
 
-### 🔹 Infrastructure & DevOps
-- **[Automate AWS Infrastructure with Terraform & Ansible](https://github.com/KavishkaSasindu/Automate_aws_infrastructure-_with_terraform_and_automate_deployement_with_ansible)**  
-  - Automated AWS infrastructure deployment using **Terraform** & **Ansible** for configuration management.
-  - **Tech Stack:** AWS, Terraform, Ansible, Python, Linux.
+### **Cloud & DevOps**
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
-- **[Terraform AWS VPC](https://github.com/KavishkaSasindu/terraform_aws_vpc)**  
-  - Infrastructure as Code (IaC) for creating a **custom AWS VPC** with subnets, route tables, and security groups.
-  - **Tech Stack:** Terraform, AWS.
+### **Backend Development**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-- **[Express API CI/CD](https://github.com/KavishkaSasindu/express-api-CI-CD)**  
-  - Implemented **CI/CD pipeline** using **Jenkins** to automate the deployment of an Express.js API.
-  - **Tech Stack:** Node.js, Express.js, Jenkins, Docker, Linux.
-
-### 🔹 Web & Backend Development
-- **[MERN Containerized with Docker Compose](https://github.com/KavishkaSasindu/mern_container-compose)**  
-  - Developed a **containerized MERN stack application** using **Docker Compose** for scalable deployment.
-  - **Tech Stack:** MongoDB, Express.js, React, Node.js, Docker.
-
-- **[Hibernate CRUD CLI](https://github.com/KavishkaSasindu/hibernate_crud_with_cli)**  
-  - A command-line-based **CRUD application** using Hibernate and Java.
-  - **Tech Stack:** Java, Hibernate, MySQL.
-
-- **[Netflix Clone with React](https://github.com/KavishkaSasindu/my_clone_react_netflix)**  
-  - Built a **Netflix UI clone** with React, featuring authentication and movie API integration.
-  - **Tech Stack:** React, Firebase, TailwindCSS.
+### **Frontend & Tools**
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 💻 Tech Stack
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Ansible](https://img.shields.io/badge/Ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+## 🏅 Featured Projects
+
+### **Infrastructure Automation**
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [AWS Terraform/Ansible Automation](https://github.com/KavishkaSasindu/Automate_aws_infrastructure-_with_terraform_and_automate_deployement_with_ansible) | Automated cloud infrastructure provisioning | Terraform, Ansible, AWS |
+| [VPC Infrastructure as Code](https://github.com/KavishkaSasindu/terraform_aws_vpc) | Custom AWS VPC implementation | Terraform, AWS |
+| [Express CI/CD Pipeline](https://github.com/KavishkaSasindu/express-api-CI-CD) | Automated deployment pipeline for Node.js | Jenkins, Docker, Express |
+
+### **Application Development**
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [MERN Docker Stack](https://github.com/KavishkaSasindu/mern_container-compose) | Containerized full-stack application | React, Node, Docker |
+| [Hibernate CRUD CLI](https://github.com/KavishkaSasindu/hibernate_crud_with_cli) | Database management CLI tool | Java, Hibernate, MySQL |
+| [Netflix UI Clone](https://github.com/KavishkaSasindu/my_clone_react_netflix) | Streaming service interface replica | React, Firebase, Tailwind |
 
 ---
 
-## 📊 GitHub Stats
-![Kavishka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KavishkaSasindu&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KavishkaSasindu&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KavishkaSasindu&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+## 📈 GitHub Analytics
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=KavishkaSasindu&show_icons=true&theme=dark" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=KavishkaSasindu&theme=dark" /></td>
+  </tr>
+</table>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KavishkaSasindu&layout=compact&theme=dark)
 
 ---
 
-## 🏆 GitHub Achievements
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=KavishkaSasindu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 📌 Highlights
 
-### ✍️ Random Dev Quote
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+- 🔭 Currently working on cloud optimization strategies
+- 🌱 Learning advanced Kubernetes orchestration
+- 👯 Looking to collaborate on open-source DevOps tools
+- 💬 Ask me about infrastructure automation & CI/CD pipelines
 
 ---
 
-<!-- Created with ❤️ by Kavishka Sasindu -->
+<sub>✨ Crafted with precision and powered by GitHub Actions</sub>
