@@ -1,74 +1,87 @@
-# Kavishka Sasindu 👨💻
+# Kavishka Sasindu 👨💻  
+**Infrastructure Craftsman | Cloud Alchemist | DevOps Engineer & Software Developer**  
+*Architecting cloud-native solutions and engineering robust systems*
 
-**Software Engineer** | **DevOps Specialist** | **Cloud Enthusiast**  
-Building scalable systems and automating workflows in the cloud ☁️
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kavishka-sasindu-5b9085265/)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sasindu0215)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kavishka_sasindu_/)
-
----
-
-## 🛠️ Technical Expertise
-
-### **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-
-### **Backend Development**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### **Frontend & Tools**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/kavishka-sasindu-5b9085265/)
+[![GitHub](https://img.shields.io/badge/-Explore%20My%20Code-181717?style=flat&logo=github)](https://github.com/KavishkaSasindu)
+[![Visitors](https://komarev.com/ghpvc/?username=KavishkaSasindu&color=dc143c&style=flat)](https://github.com/KavishkaSasindu)
 
 ---
 
-## 🏅 Featured Projects
+## 🚀 Core Competencies
 
-### **Infrastructure Automation**
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [AWS Terraform/Ansible Automation](https://github.com/KavishkaSasindu/Automate_aws_infrastructure-_with_terraform_and_automate_deployement_with_ansible) | Automated cloud infrastructure provisioning | Terraform, Ansible, AWS |
-| [VPC Infrastructure as Code](https://github.com/KavishkaSasindu/terraform_aws_vpc) | Custom AWS VPC implementation | Terraform, AWS |
-| [Express CI/CD Pipeline](https://github.com/KavishkaSasindu/express-api-CI-CD) | Automated deployment pipeline for Node.js | Jenkins, Docker, Express |
-
-### **Application Development**
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [MERN Docker Stack](https://github.com/KavishkaSasindu/mern_container-compose) | Containerized full-stack application | React, Node, Docker |
-| [Hibernate CRUD CLI](https://github.com/KavishkaSasindu/hibernate_crud_with_cli) | Database management CLI tool | Java, Hibernate, MySQL |
-| [Netflix UI Clone](https://github.com/KavishkaSasindu/my_clone_react_netflix) | Streaming service interface replica | React, Firebase, Tailwind |
+**🛠 DevOps Engineering**  
+`Infrastructure as Code` `CI/CD Pipelines` `Cloud Automation` `Container Orchestration`  
+**☁️ Cloud Architecture**  
+`AWS Solutions` `Cost Optimization` `Serverless Patterns` `Disaster Recovery`  
+**💻 Software Development**  
+`Microservices` `API Design` `Database Optimization` `Full-Stack Systems`
 
 ---
 
-## 📈 GitHub Analytics
+## 🔧 Technical Toolbox
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=KavishkaSasindu&show_icons=true&theme=dark" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=KavishkaSasindu&theme=dark" /></td>
-  </tr>
-</table>
+### **Cloud & Infrastructure**
+![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazon-aws)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform)
+![Kubernetes](https://img.shields.io/badge/-K8s-326CE5?logo=kubernetes)
+![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KavishkaSasindu&layout=compact&theme=dark)
-
----
-
-## 📌 Highlights
-
-- 🔭 Currently working on cloud optimization strategies
-- 🌱 Learning advanced Kubernetes orchestration
-- 👯 Looking to collaborate on open-source DevOps tools
-- 💬 Ask me about infrastructure automation & CI/CD pipelines
+### **Development & Databases**
+![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis)
 
 ---
 
-<sub>✨ Crafted with precision and powered by GitHub Actions</sub>
+## 🌟 Signature Projects
+
+### **Infrastructure Engineering**
+- **AWS Automation Framework**  
+  Terraform modules + Ansible playbooks for enterprise-grade cloud infrastructure  
+  `Terraform` `Ansible` `AWS EC2/VPC` `IAM Policies`
+
+- **Kubernetes Cluster Factory**  
+  Automated K8s deployment with observability stack and autoscaling  
+  `Helm` `Prometheus` `Grafana` `AWS EKS`
+
+- **CI/CD Pipeline Engine**  
+  Custom Jenkins shared library for multi-environment deployments  
+  `Groovy` `Docker` `Nexus` `Blue/Green Deployment`
+
+### **Software Solutions**
+- **Cloud-Native E-Commerce**  
+  MERN stack application with payment integration and analytics  
+  `React` `Node.js` `MongoDB` `Stripe API`
+
+- **Distributed Task Processor**  
+  Horizontally scalable job queue with priority scheduling  
+  `Redis` `Celery` `Python` `RabbitMQ`
+
+- **Serverless Data Pipeline**  
+  Real-time analytics using AWS serverless technologies  
+  `Lambda` `Kinesis` `DynamoDB` `Event Bridge`
+
+---
+
+## 📚 Knowledge Sharing
+- [**Infrastructure as Code Best Practices**](https://medium.com/@sasindu0215)  
+- [**Kubernetes Cost Optimization Strategies**](https://medium.com/@sasindu0215)  
+- [**CI/CD Pipeline Security Guide**](https://medium.com/@sasindu0215)
+
+---
+
+## 💡 Engineering Philosophy
+> *"The art of engineering lies in simplifying complexity while maintaining elegance."*  
+> **Current Focus**: Implementing GitOps workflows with ArgoCD  
+> **Learning Journey**: Service Mesh architectures with Istio  
+> **Collaboration Ready**: Open-source DevOps tools & cloud-native projects
+
+[![Let's Connect](https://img.shields.io/badge/-Discuss%20a%20Project-6F42C1?style=for-the-badge)](mailto:sasindu0215@gmail.com)
+
+---
+
+<sub>⚡ Powered by Cloud Innovation | 🔐 Security-First Mindset | 🧩 Problem Solver at Core</sub>
