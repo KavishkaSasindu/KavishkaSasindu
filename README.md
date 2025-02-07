@@ -48,7 +48,6 @@ public class AboutMe {
 - **[Netflix Clone](https://github.com/KavishkaSasindu/my_clone_react_netflix.git)** – Netflix-style UI built with React.  
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
 
 
