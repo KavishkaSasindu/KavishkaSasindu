@@ -16,6 +16,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_OS: "True"
           SECTION_NAME: ""
+          SHOW_LANGUAGE: "True"
           SHOW_PROJECTS: "False"
           COMMIT_BY_ME: "True"
           SHOW_UPDATED_DATE: "False"
