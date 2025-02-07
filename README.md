@@ -1,4 +1,4 @@
-#### Infrastructure Craftsman | Cloud Alchemist | DevOps Pioneer & Software Developer (Code Engineer)
+### Infrastructure Craftsman | Cloud Alchemist | DevOps Pioneer & Software Developer (Code Engineer)
 *Architecting cloud-native solutions and engineering robust systems*
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/kavishka-sasindu-5b9085265/)
