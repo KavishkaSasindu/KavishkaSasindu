@@ -45,7 +45,8 @@ public class AboutMe {
 
 ### 🖥 Web Development  
 - **[MERN App with Docker](https://github.com/KavishkaSasindu/mern-sample-application-with-docker.git)** – MERN stack app containerized with Docker.  
-- **[Netflix Clone](https://github.com/KavishkaSasindu/my_clone_react_netflix.git)** – Netflix-style UI built with React.  
+- **[Netflix Clone](https://github.com/KavishkaSasindu/my_clone_react_netflix.git)** – Netflix-style UI built with React.
+
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
