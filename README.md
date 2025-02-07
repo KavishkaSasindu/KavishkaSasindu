@@ -1,5 +1,4 @@
-## 🔥 From Code to Cloud  
-**💻 Infrastructure Craftsman | Cloud Alchemist | DevOps Pioneer & Software Developer (Code Engineer)**  
+#### Infrastructure Craftsman | Cloud Alchemist | DevOps Pioneer & Software Developer (Code Engineer)
 *Architecting cloud-native solutions and engineering robust systems*
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/kavishka-sasindu-5b9085265/)
@@ -47,12 +46,7 @@ public class AboutMe {
 - **[MERN App with Docker](https://github.com/KavishkaSasindu/mern-sample-application-with-docker.git)** – MERN stack app containerized with Docker.  
 - **[Netflix Clone](https://github.com/KavishkaSasindu/my_clone_react_netflix.git)** – Netflix-style UI built with React.  
 - 
-## 📊 GitHub Stats & Activity  
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=KavishkaSasindu&show_icons=true&theme=radical&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavishkaSasindu&layout=compact&theme=radical&hide_border=true" />
-</div>
 
 
 
