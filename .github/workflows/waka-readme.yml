@@ -15,9 +15,9 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          SHOW_OS: "False"
-          SHOW_LANGUAGE: "False"
-          SHOW_PROJECTS: "False"
+          SHOW_OS: "True"
+          SHOW_LANGUAGE: "True"
+          SHOW_PROJECTS: "True"
           COMMIT_BY_ME: "True"
           SHOW_UPDATED_DATE: "False"
           COMMIT_USERNAME: "KavishkaSasindu"
