@@ -1,5 +1,11 @@
 ## 🔥 From Code to Cloud  
-**💻 Code Engineer • DevOps Pioneer • Infra Maestro**  
+**💻 Infrastructure Craftsman | Cloud Alchemist | DevOps Pioneer & Software Developer (Code Engineer)**  
+*Architecting cloud-native solutions and engineering robust systems*
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/kavishka-sasindu-5b9085265/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/KavishkaSasindu)
+[![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&logo=medium)](https://medium.com/@sasindu0215)
+[![Visitors](https://komarev.com/ghpvc/?username=KavishkaSasindu&color=dc143c&style=flat)](https://github.com/KavishkaSasindu)
 
 ### 👋 About Me  
 
@@ -22,8 +28,7 @@ public class AboutMe {
 - 🔹 Develop high-performance, scalable applications  
 - 🔹 Architect cloud infrastructure for reliability & efficiency  
 - 🔹 Automate deployments, CI/CD pipelines & DevOps workflows  
-- 🔹 Optimize systems for security, observability & performance  
-
+- 🔹 Optimize systems for security, observability & performance
 
 ## 🚀 Projects  
 
@@ -49,16 +54,6 @@ public class AboutMe {
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KavishkaSasindu&layout=compact&theme=radical&hide_border=true" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=KavishkaSasindu&theme=radical&hide_border=true" height="165"/>
-</div>
 
 
-## 🔥 Profile Views  
-<p>
-  <img src="https://komarev.com/ghpvc/?username=KavishkaSasindu&color=blue&style=flat" />
-</p>
-
-### 🐍 Contribution Snake  
-![Snake animation](https://github.com/KavishkaSasindu/KavishkaSasindu/blob/output/github-snake.svg)
 
