@@ -17,7 +17,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_OS: "True"
           SHOW_LANGUAGE: "True"
-          SHOW_PROJECTS: "True"
+          SHOW_PROJECTS: "False"
           COMMIT_BY_ME: "True"
           SHOW_UPDATED_DATE: "False"
           COMMIT_USERNAME: "KavishkaSasindu"
@@ -25,7 +25,7 @@ jobs:
           SHOW_LINES_OF_CODE: "False"
           SHOW_TOTAL_CODE_TIME: "True"
           SHOW_PROFILE_VIEWS: "False"
-          SHOW_DAYS_OF_WEEK: "True"
+          SHOW_DAYS_OF_WEEK: "False"
           SHOW_TIMEZONE: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
           SHOW_SHORT_INFO: "False"
