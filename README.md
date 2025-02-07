@@ -29,7 +29,6 @@ public class AboutMe {
 - 🔹 Automate deployments, CI/CD pipelines & DevOps workflows  
 - 🔹 Optimize systems for security, observability & performance
 
-<img src="https://github.com/KavishkaSasindu/KavishkaSasindu/blob/main/generated/overview.svg#gh-dark-mode-only" alt="KavishkaSasindu's GitHub Statistics Card" title="KavishkaSasindu's GitHub Statistics"/>
 
 ## 🚀 Projects  
 
