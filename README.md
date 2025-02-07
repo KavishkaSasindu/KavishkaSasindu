@@ -50,7 +50,7 @@ public class AboutMe {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=KavishkaSasindu&theme=radical&hide_border=true" height="165"/>
+ <img src="https://streak-stats.demolab.com/?user=KavishkaSasindu&theme=radical&hide_border=true" />
 </div>
 
 ## 🔥 Profile Views  
