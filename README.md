@@ -29,6 +29,8 @@ public class AboutMe {
 - 🔹 Automate deployments, CI/CD pipelines & DevOps workflows  
 - 🔹 Optimize systems for security, observability & performance
 
+<img src="https://github.com/KavishkaSasindu/KavishkaSasindu/blob/main/generated/overview.svg#gh-dark-mode-only" alt="KavishkaSasindu's GitHub Statistics Card" title="KavishkaSasindu's GitHub Statistics"/>
+
 ## 🚀 Projects  
 
 ### 🛠 Backend Development  
@@ -47,6 +49,27 @@ public class AboutMe {
 - **[Netflix Clone](https://github.com/KavishkaSasindu/my_clone_react_netflix.git)** – Netflix-style UI built with React.  
 
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
+
+🌞 Morning    95 commits     ███████░░░░░░░░░░░░░░░░░░   30.55% 
+🌆 Daytime    78 commits     ██████░░░░░░░░░░░░░░░░░░░   25.08% 
+🌃 Evening    112 commits    █████████░░░░░░░░░░░░░░░░   36.01% 
+🌙 Night      26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.36%
+
+💬 Languages:
+
+JavaScript               5 hrs 26 mins       ███████████████░░░░░░░░░░   61.97%
+PHP                      1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.07%
+Markdown                 1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.3%
+Python                   22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.32%
+XML                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.62%
+
+🔥 Editors:
+
+WebStorm                 6 hrs 47 mins       ███████████████████░░░░░░   77.43%
+PhpStorm                 1 hr 35 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.07%
+PyCharm                  23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.49%
+
 <!--END_SECTION:waka-->
 
 
