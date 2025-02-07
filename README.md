@@ -51,7 +51,6 @@ public class AboutMe {
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=KavishkaSasindu&theme=radical&hide_border=true" height="165" />
-
 </div>
 
 ## 🔥 Profile Views  
