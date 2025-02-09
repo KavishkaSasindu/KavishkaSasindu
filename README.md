@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/kavishka-sasindu-5b9085265/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/KavishkaSasindu)
 [![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&logo=medium)](https://medium.com/@sasindu0215)
-[![Visitors](https://komarev.com/ghpvc/?username=KavishkaSasindu&color=dc143c&style=flat)](https://github.com/KavishkaSasindu)
+
 
 ### 👋 About Me  
 
