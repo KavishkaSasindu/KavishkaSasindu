@@ -1,4 +1,3 @@
-![github-banner](https://github.com/KavishkaSasindu/KavishkaSasindu/assets/64830641/6da6dd20-678c-4a8a-8307-449e0ee35d98)
 
 ### Infrastructure Craftsman | Cloud Alchemist | DevOps Pioneer & Software Developer (Code Engineer)
 *Architecting cloud-native solutions and engineering robust systems*
