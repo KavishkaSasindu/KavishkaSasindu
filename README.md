@@ -51,7 +51,7 @@ public class AboutMe {
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-247%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-247%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -59,9 +59,9 @@ public class AboutMe {
 
 ```text
 🌞 Morning                154 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
-🌆 Daytime                360 commits         ██████░░░░░░░░░░░░░░░░░░░   22.10 % 
-🌃 Evening                783 commits         ████████████░░░░░░░░░░░░░   48.07 % 
-🌙 Night                  332 commits         █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
+🌆 Daytime                360 commits         ██████░░░░░░░░░░░░░░░░░░░   22.09 % 
+🌃 Evening                783 commits         ████████████░░░░░░░░░░░░░   48.04 % 
+🌙 Night                  333 commits         █████░░░░░░░░░░░░░░░░░░░░   20.43 % 
 ```
 
 
@@ -69,13 +69,13 @@ public class AboutMe {
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   32 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  32 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  32 mins             █████████████████████████   100.00 % 
 ```
 
 
