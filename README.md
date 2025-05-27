@@ -35,7 +35,7 @@ public class AboutMe {
 ## 🚀 Projects  
 
 ### 🛠 Backend Development  
-- **[Springboot Security JWT]([https://github.com/KavishkaSasindu/SpringDemo_learn_xml_configuration.git](https://github.com/KavishkaSasindu/Spring-JWT-Complete)** – Springboot application for security implementation.  
+- **[Springboot Security JWT](https://github.com/KavishkaSasindu/Spring-JWT-Complete)** – Springboot application for security implementation.  
 - **[JDBC Simple CRUD](https://github.com/KavishkaSasindu/jdbc_simple_crud.git)** – Console-based CRUD app with JDBC and MySQL.  
 
 ### ☁ Cloud & Infrastructure  
