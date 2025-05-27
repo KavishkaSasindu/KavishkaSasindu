@@ -35,7 +35,7 @@ public class AboutMe {
 ## 🚀 Projects  
 
 ### 🛠 Backend Development  
-- **[Springboot Security JWT]([https://github.com/KavishkaSasindu/SpringDemo_learn_xml_configuration.git](https://github.com/KavishkaSasindu/Spring-JWT-Complete))** – Springboot application for security implementation.  
+- **[Springboot Security JWT]([https://github.com/KavishkaSasindu/SpringDemo_learn_xml_configuration.git](https://github.com/KavishkaSasindu/Spring-JWT-Complete)** – Springboot application for security implementation.  
 - **[JDBC Simple CRUD](https://github.com/KavishkaSasindu/jdbc_simple_crud.git)** – Console-based CRUD app with JDBC and MySQL.  
 
 ### ☁ Cloud & Infrastructure  
@@ -48,6 +48,7 @@ public class AboutMe {
 ### 🖥 Web Development  
 - **[MERN App with Docker](https://github.com/KavishkaSasindu/mern-sample-application-with-docker.git)** – MERN stack app containerized with Docker.  
 - **[Netflix Clone](https://github.com/KavishkaSasindu/my_clone_react_netflix.git)** – Netflix-style UI built with React.
+- **[Book Store Web Application](https://github.com/KavishkaSasindu/Online_Book_Store.git)** – Fullstack book store web application using Spring boot and react
 
 
 <!--START_SECTION:waka-->
