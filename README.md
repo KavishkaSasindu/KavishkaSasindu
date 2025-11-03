@@ -52,29 +52,6 @@ public class AboutMe {
 
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                158 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
-🌆 Daytime                367 commits         █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
-🌃 Evening                789 commits         ███████████░░░░░░░░░░░░░░   43.62 % 
-🌙 Night                  495 commits         ███████░░░░░░░░░░░░░░░░░░   27.36 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 
 <!--END_SECTION:waka-->
 
