@@ -52,6 +52,31 @@ public class AboutMe {
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-261%20hrs%201%20min-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                176 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+🌆 Daytime                379 commits         █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
+🌃 Evening                816 commits         ███████████░░░░░░░░░░░░░░   42.19 % 
+🌙 Night                  563 commits         ███████░░░░░░░░░░░░░░░░░░   29.11 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 
 <!--END_SECTION:waka-->
 
