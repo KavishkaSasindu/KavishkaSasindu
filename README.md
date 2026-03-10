@@ -57,10 +57,10 @@ public class AboutMe {
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                192 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
-🌆 Daytime                430 commits         █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
-🌃 Evening                839 commits         ██████████░░░░░░░░░░░░░░░   40.22 % 
-🌙 Night                  625 commits         ███████░░░░░░░░░░░░░░░░░░   29.96 % 
+🌞 Morning                176 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+🌆 Daytime                430 commits         █████░░░░░░░░░░░░░░░░░░░░   20.97 % 
+🌃 Evening                819 commits         ██████████░░░░░░░░░░░░░░░   39.93 % 
+🌙 Night                  626 commits         ████████░░░░░░░░░░░░░░░░░   30.52 % 
 ```
 
 
